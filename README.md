@@ -1,3 +1,4 @@
+![logo](https://github.com/Prajwal6361/prajwal6361/blob/main/Banner%20git.jpg)
 <h1 align="center">Hi 👋, I'm Prajwal M Shetty</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
